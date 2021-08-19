@@ -143,7 +143,7 @@ export default {
             case 'ucp':
                 this.unitTitle = "UCP";
                 this.commentStyle = "//";
-                this.unitFullTitle = "Unix & C Programming";
+                this.unitFull = "Unix & C Programming";
                 this.slogan = "Does <i>UCP</i> make you want to UC-<i>flee</i> your computing <i>degree</i>?";
                 break;
             case 'other':
@@ -151,7 +151,7 @@ export default {
                 this.unit = 'other';
                 this.unitTitle = "Computing Study";
                 this.commentStyle = "#";
-                this.unitFullTitle = "PDI, UCP, DSA, FOP";
+                this.unitFull = "PDI, UCP, DSA, FOP";
                 this.slogan = "Does <i>PDI</i> make you want to PD-<i>die</i>?<br/>Has studying <i>FOP</i> been a complete <i>flop</i>?<br/>Does <i>DSA</i> just ruin your <i>day</i>?<br/>Does <i>UCP</i> make you want to UC-<i>flee</i> your computing <i>degree</i>?";
                 break;
                 
