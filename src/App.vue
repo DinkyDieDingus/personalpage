@@ -89,7 +89,7 @@
             <p><br/></p>
             <div v-if="!pdf" class="field">
                 <div class="control">
-                    <a class="button is-large is-primary">Book Session</a>
+                    <a class="button is-large is-primary" href="https://forms.gle/nuHU6Y9BQFBscS8z6">Book Session</a>
                 </div>     
             </div>
             <div v-else>
